@@ -9,7 +9,7 @@
 ## 🧠 About Me
 - 📚 Currently learning **Java, Python, and Web Development**
 - 🛠 Interested in **software engineering & problem solving**
-- 🌱 Focused on improving logic, structure, and best practices
+- 🌱 Focused on improving logic, structure, and best 
 - 🤝 Open to collaboration and learning from others
 
 ---
