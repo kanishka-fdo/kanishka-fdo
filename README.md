@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**kanishka-fdo/kanishka-fdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student Developer**  
+💻 Passionate about software development and clean code  
+🚀 Learning by building real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 📚 Currently learning **Java, Python, and Web Development**
+- 🛠 Interested in **software engineering & problem solving**
+- 🌱 Focused on improving logic, structure, and best practices
+- 🤝 Open to collaboration and learning from others
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** Java, Python  
+- **Web:** HTML, CSS, JavaScript  
+- **Tools:** Git, GitHub, IntelliJ, VS Code  
+
+---
+
+## 📈 Goals
+- Build strong foundations in software engineering  
+- Contribute to open-source projects  
+- Grow into a professional developer step by step  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+
+---
+
+## 📫 Connect
+- 💼 Open to internships and learning opportunities  
+- ⭐ Check out my repositories and feel free to give feedback!
+
+> *“Consistency beats talent when talent doesn’t work consistently.”*
