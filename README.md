@@ -17,7 +17,7 @@
 ## 🛠 Tech Stack
 - **Languages:** Java, Python  
 - **Web:** HTML, CSS, JavaScript  
-- **Tools:** Git, GitHub, IntelliJ, VS Code  
+- **Tools:** Git, GitHub, IntelliJ, VS code 
 
 ---
 
