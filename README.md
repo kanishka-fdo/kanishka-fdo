@@ -58,8 +58,8 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
+- 📧 Email:kanishkaf18@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/kanishka-fernando-3807173a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
 - 🌐 Portfolio: Coming Soon  
 
 ⭐ *Always learning, always building*
