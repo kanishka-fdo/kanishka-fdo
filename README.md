@@ -1,69 +1,88 @@
+<!-- Banner (optional) -->
 <p align="center">
   <img src="banner.png" alt="Banner" />
 </p>
 
-# 👋 Hi, I'm Kanishka Fernando
+<h1 align="center">Hi 👋, I'm Kanishka Fernando</h1>
+<h3 align="center">Full-Stack & Mobile Application Developer | ISE Undergraduate</h3>
 
-💻 Full-Stack & Mobile Application Developer  
-🎓 Undergraduate in Information Systems Engineering  
-🚀 Turning ideas into real-world applications  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kanishka-fdo&label=Profile%20views&color=7F52FF&style=flat" />
+  <img src="https://img.shields.io/github/followers/kanishka-fdo?label=Followers&style=flat&color=7F52FF" />
+  <img src="https://img.shields.io/github/stars/kanishka-fdo?label=Total%20Stars&style=flat&color=7F52FF" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-Hey there 👋  
-I’m Kanishka, a passionate developer who enjoys building **secure, scalable, and real-world applications**.  
-I focus on **backend development**, **full-stack systems**, and **Android apps**, and I’m continuously learning modern technologies.
-
----
-
-## 🛠 Technology Stack
-
-### 🧩 Programming Languages
-![Java](https://img.shields.io/badge/Java-orange)
-![Kotlin](https://img.shields.io/badge/Kotlin-purple)
-![Python](https://img.shields.io/badge/Python-blue)
-
-### 🌐 Backend & Web
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-green)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-darkgreen)
-![HTML5](https://img.shields.io/badge/HTML5-orange)
-![CSS3](https://img.shields.io/badge/CSS3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-
-### 📱 Mobile
-![Android](https://img.shields.io/badge/Android-green)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-blue)
-
-### 🗄 Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-red)
-![SQLite](https://img.shields.io/badge/SQLite-lightblue)
-
-### ⚙ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-black)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![Maven](https://img.shields.io/badge/Maven-red)
-![Android Studio](https://img.shields.io/badge/Android_Studio-green)
-![VS Code](https://img.shields.io/badge/VS_Code-blue)
-
----
-
-## 🚀 Featured Projects
-- 🔹 **Portfolio Web Application** – Spring Boot, Thymeleaf, SQL Server  
-- 🔹 **Staff Management System** – MVC-based CRUD web application  
-- 🔹 **Expense Tracker Android App** – Kotlin, Jetpack Compose, Room  
+- 🔭 Building **Spring Boot** web applications & **Android (Kotlin + Compose)** apps  
+- 🌱 Learning **enterprise backend development**, databases & deployment  
+- 🎯 Looking for **internship / junior developer** opportunities  
+- 🤝 Open to collaboration on real-world projects  
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=kanishka-fdo&show_icons=true&theme=dark)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-fdo&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanishka-fdo&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanishka-fdo&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-fdo&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-fdo&layout=compact&theme=tokyonight" height="165" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 📧 Email:kanishkaf18@gmail.com
-- 🌍 Portfolio: Coming Soon
+## ⚡ Tech Stack
+<p align="center">
 
-⭐ *Always learning*
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+
+  <!-- Mobile -->
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+  <!-- DB -->
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+- ✅ **Staff Management System** – Spring Boot MVC CRUD  
+- ✅ **Portfolio Web Application** – Admin dashboard + content management  
+- ✅ **Expense Tracker Android App** – Kotlin + Compose + Room  
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-7F52FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-7F52FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/kanishka-fdo"><img src="https://img.shields.io/badge/GitHub-7F52FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
