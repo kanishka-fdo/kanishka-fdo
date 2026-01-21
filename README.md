@@ -78,7 +78,6 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://www.linkedin.com/in/kanishka-fernando-3807173a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" /></a>
   <a href="mailto:kanishkaf18@gmail.com"><img src="https://img.shields.io/badge/Email-7F52FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/kanishka-fdo"><img src="https://img.shields.io/badge/GitHub-7F52FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
