@@ -1,42 +1,65 @@
-# 👋 Hi there!
+# 👋 Hi there, I'm Kanishka Fernando
 
-🎓 **Student Developer**  
-💻 Passionate about software development and clean code  
-🚀 Learning by building real-world projects
-
----
-
-## 🧠 About Me
-- 📚 Currently learning **Java, Python, and Web Development**
-- 🛠 Interested in **software engineering & problem solving**
-- 🌱 Focused on improving logic, structure, and best 
-- 🤝 Open to collaboration and learning from others
+🎓 Undergraduate in Information Systems Engineering  
+💻 Full-Stack & Mobile Application Developer  
+🚀 Turning ideas into real-world applications  
 
 ---
 
-## 🛠 Tech Stack
-- **Languages:** Java, Python  
-- **Web:** HTML, CSS, JavaScript  
-- **Tools:** Git, GitHub, IntelliJ, VS code 
+## 👨‍💻 About Me
+- 🔭 Currently working on **Spring Boot & Android applications**
+- 🌱 Learning **enterprise backend development and system design**
+- 🧠 Interested in **full-stack development, databases, and mobile apps**
+- 🤝 Open to **internships, collaborations, and learning opportunities**
 
 ---
 
-## 📈 Goals
-- Build strong foundations in software engineering  
-- Contribute to open-source projects  
-- Grow into a professional developer step by step  
+## 🛠 Technology Stack
+
+### 🔹 Programming Languages
+![Java](https://img.shields.io/badge/Java-orange)
+![Kotlin](https://img.shields.io/badge/Kotlin-purple)
+![Python](https://img.shields.io/badge/Python-blue)
+
+### 🔹 Backend & Web
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-green)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-darkgreen)
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
+### 🔹 Mobile Development
+![Android](https://img.shields.io/badge/Android-green)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-blue)
+
+### 🔹 Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-red)
+![SQLite](https://img.shields.io/badge/SQLite-lightblue)
+
+### 🔹 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-black)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+![Maven](https://img.shields.io/badge/Maven-red)
+![Android Studio](https://img.shields.io/badge/Android_Studio-green)
+
+---
+
+## 🚀 Featured Projects
+- 🔹 **Portfolio Web Application** – Spring Boot, Thymeleaf, SQL Server  
+- 🔹 **Staff Management System** – MVC-based CRUD web application  
+- 🔹 **Expense Tracker Android App** – Kotlin, Jetpack Compose, Room  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanishka-fdo&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-fdo&layout=compact&theme=dark)
 
 ---
 
-## 📫 Connect
-- 💼 Open to internships and learning opportunities  
-- ⭐ Check out my repositories and feel free to give feedback!
+## 📫 Connect With Me
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-link  
+- 🌐 Portfolio: Coming Soon  
 
-> *“Consistency beats talent when talent doesn’t work consistently.”*
+⭐ *Always learning, always building*
