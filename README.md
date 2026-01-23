@@ -5,7 +5,7 @@
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Kanishka Fernando</h1>
+<h1 align="center">Hi 👋, 
 <h3 align="center">
 ISE Undergraduate • Full-Stack & Mobile Application Developer
 </h3>
