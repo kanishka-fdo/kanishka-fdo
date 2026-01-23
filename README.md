@@ -7,7 +7,7 @@
 
 
 <h3 align="center">
-ISE Undergraduate • Full-Stack & Mobile Application Developer
+Information System Engineering Undergraduate 
 </h3>
 
 <p align="center">
