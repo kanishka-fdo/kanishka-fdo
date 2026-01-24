@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=44&pause=1400&color=7F52FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Kanishka+Fernando;Full-Stack+%19+Mobile+Application+Developer;Java+%7C+Spring+Boot+%7C+Kotlin+%7C+Jetpack+Compose"
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=44&pause=1400&color=7F52FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Kanishka+Fernando;Full-Stack+%20+Mobile+App+Developer;Java+%7C+Spring+Boot+%7C+Kotlin+%7C+Jetpack+Compose"
     alt="Typing SVG"
   />
 </p>
