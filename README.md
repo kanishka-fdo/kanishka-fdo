@@ -18,7 +18,7 @@ Information System Engineering Undergraduate
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About me
 🚀 Passionate **Full-Stack & Mobile Application Developer** focused on building scalable, real-world applications.
 
 - 🔭 Building **Spring Boot MVC & REST APIs**
