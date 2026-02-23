@@ -1,14 +1,22 @@
-<!-- ===================================== -->
-<!-- 💎 Premium Clean Header -->
-<!-- ===================================== -->
+<!-- ===================================================== -->
+<!-- 💎 ELITE DEVELOPER MODE – FULL PREMIUM README -->
+<!-- ===================================================== -->
 
+<!-- 🔥 Premium Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:111827&height=180&section=header&text=Kanishka%20Fernando&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20%26%20Mobile%20Application%20Developer&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Kanishka%20Fernando&fontSize=55&color=0:111827,100:1f2937&stroke=7F52FF&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%26%20Mobile%20Application%20Developer&descAlignY=65"/>
+</p>
+
+<!-- ⚡ Animated Typing -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&pause=1300&color=7F52FF&center=true&vCenter=true&width=850&height=100&lines=Spring+Boot+Backend+Engineer;Android+Developer+with+Kotlin;Jetpack+Compose+Enthusiast;Building+Scalable+Real-World+Software+🚀"
+  />
 </p>
 
 <p align="center">
   <b>Information Systems Engineering Undergraduate</b><br>
-  Building scalable backend systems & modern mobile applications
+  Passionate about scalable backend systems & modern mobile applications
 </p>
 
 <p align="center">
@@ -18,67 +26,107 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 ```yaml
 Name: Kanishka Fernando
 Role: Full Stack & Mobile Developer
 Backend: Spring Boot • REST APIs • JPA • Hibernate
-Mobile: Kotlin • Jetpack Compose
+Mobile: Kotlin • Jetpack Compose • Room
 Focus: Clean Architecture & Scalable Systems
 Open To: Internship / Junior Software Engineer Roles
 ```
 
-I specialize in designing structured backend systems and developing modern Android applications with a focus on performance, scalability, and maintainability.
+I focus on building maintainable backend systems and crafting modern Android applications with structured architecture and real-world usability.
 
 ---
 
-## 🛠 Technical Skills
+# 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,android,python,js,html,css,mysql,git,github,maven" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,android,python,js,html,css,mysql,git,github,maven,vscode" />
 </p>
 
 ---
 
-## 🚀 Selected Projects
+# 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/kanishka-fdo/Staff-Management-System">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Staff-Management-System&theme=default&hide_border=true"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Staff-Management-System&theme=tokyonight&hide_border=true"/>
   </a>
 
   <a href="https://github.com/kanishka-fdo/Expense-Tracker-App">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Expense-Tracker-App&theme=default&hide_border=true"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Expense-Tracker-App&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/kanishka-fdo/Portfolio-Web-App">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Portfolio-Web-App&theme=default&hide_border=true"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Portfolio-Web-App&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics (Auto Dark/Light Mode)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kanishka-fdo&show_icons=true&theme=default&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-fdo&theme=default&hide_border=true"/>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=kanishka-fdo&show_icons=true&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=kanishka-fdo&show_icons=true&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)" />
+    <img height="170"/>
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-fdo&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-fdo&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)" />
+    <img height="170"/>
+  </picture>
 </p>
 
 ---
 
-## 🧠 LeetCode Profile
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=light&font=Montserrat"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/kanishka-fdo/kanishka-fdo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/kanishka-fdo/kanishka-fdo/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" 
+      src="https://raw.githubusercontent.com/kanishka-fdo/kanishka-fdo/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
-## 🌐 Professional Links
+# 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Montserrat&ext=heatmap" />
+</p>
+
+---
+
+# 🎧 Currently Playing
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR-SPOTIFY-ID&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+</p>
+
+---
+
+# 🌐 Professional Links
 
 <p align="center">
 
@@ -103,9 +151,10 @@ I specialize in designing structured backend systems and developing modern Andro
 ---
 
 <p align="center">
-  <i>Open to internship and junior software engineering opportunities.</i>
+  <b>Open to Internship & Junior Software Engineering Opportunities</b>
 </p>
 
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1f2937&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=100&section=footer"/>
 </p>
