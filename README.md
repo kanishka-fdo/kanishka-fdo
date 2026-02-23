@@ -1,16 +1,25 @@
+<!-- =============================== -->
+<!-- 🔥 NEON GLOW HEADER -->
+<!-- =============================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Kanishka%20Fernando&fontSize=55&color=7F52FF&stroke=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%26%20Mobile%20Developer&descAlignY=65&descAlign=50"/>
+</p>
+
+<!-- =============================== -->
+<!-- ⚡ Animated Typing Header -->
+<!-- =============================== -->
+
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&pause=1400&color=7F52FF&center=true&vCenter=true&width=900&height=120&lines=Kanishka+Fernando;Full+Stack+%26+Mobile+App+Developer;Java+%7C+Spring+Boot+%7C+Kotlin+%7C+Compose"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=32&pause=1300&color=7F52FF&center=true&vCenter=true&width=850&height=100&lines=Spring+Boot+Backend+Developer;Android+Developer+with+Kotlin;Jetpack+Compose+Enthusiast;Building+Real+World+Software+🚀"
   />
 </p>
 
-<h3 align="center">
-🎓 Information Systems Engineering Undergraduate  
-</h3>
+<h3 align="center">🎓 Information Systems Engineering Undergraduate</h3>
 
 <p align="center">
-  🚀 Building scalable backend systems & modern mobile apps  
+  🚀 Building scalable backend systems & modern mobile applications
 </p>
 
 <p align="center">
@@ -21,91 +30,107 @@
 
 ---
 
-## ✨ About Me
+# ✨ About Me
 
-👋 Hi, I'm **Kanishka Fernando**, a passionate developer focused on:
+```yaml
+Name: Kanishka Fernando
+Role: Full Stack & Mobile Application Developer
+Backend Stack: Spring Boot • REST APIs • JPA • Hibernate
+Mobile Stack: Kotlin • Jetpack Compose • Room
+Currently: Learning Enterprise Architecture & Deployment
+Goal: Internship / Junior Software Engineer
+```
 
-- ⚡ Backend Development with **Spring Boot & REST APIs**
-- 📱 Android Apps using **Kotlin + Jetpack Compose**
-- 🏗️ Learning **Enterprise Architecture & Deployment**
-- 🎯 Looking for **Internship / Junior SE Opportunities**
-- 🤝 Open to collaborations & real-world projects  
-
----
-
-## 🛠️ Tech Stack
-
-### Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,js" />
-</p>
-
-### Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql" />
-</p>
-
-### Mobile Development  
-<p>
-  <img src="https://skillicons.dev/icons?i=android,kotlin" />
-</p>
-
-### Tools & Platforms  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,maven,vscode" />
-</p>
+- ⚡ Backend Engineering with Spring Boot  
+- 📱 Crafting modern Android apps  
+- 🏗️ Exploring scalable architecture  
+- 🤝 Open to collaboration on impactful projects  
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏢 Staff Management System  
-✅ Spring Boot MVC • Authentication • Role-Based Access  
-🔗 *Coming soon*
-
----
-
-### 🌐 Portfolio Web Application  
-✅ Admin Dashboard • CMS Features • Spring Boot  
-🔗 *Coming soon*
-
----
-
-### 📱 Expense Tracker Android App  
-✅ Kotlin • Jetpack Compose • Room Database  
-🔗 *Coming soon*
-
----
-
-## 📊 GitHub Analytics
+# 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanishka-fdo&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,android,python,js,html,css,mysql,git,github,maven,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/kanishka-fdo/Staff-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Staff-Management-System&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanishka-fdo&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-fdo&theme=tokyonight" height="160"/>
+  <a href="https://github.com/kanishka-fdo/Expense-Tracker-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Expense-Tracker-App&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-fdo&layout=compact&theme=tokyonight" height="150"/>
+  <a href="https://github.com/kanishka-fdo/Portfolio-Web-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Portfolio-Web-App&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 Achievements
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kanishka-fdo&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanishka-fdo&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-fdo&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishka-fdo&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
   <a href="mailto:kanishkaf18@gmail.com">
     <img src="https://img.shields.io/badge/Email-7F52FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-7F52FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/YOUR-LEETCODE-USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-7F52FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 
   <a href="https://github.com/kanishka-fdo">
     <img src="https://img.shields.io/badge/GitHub-7F52FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
 </p>
 
+---
+
 <p align="center">
-  💼 <b>Open to Internships & Junior Software Engineer Roles</b>
-</p> update that 
+  💼 <b>Open to Internship & Junior Software Engineer Opportunities</b>
+</p>
+
+<!-- =============================== -->
+<!-- 🔥 Animated Footer Wave -->
+<!-- =============================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer"/>
+</p>
