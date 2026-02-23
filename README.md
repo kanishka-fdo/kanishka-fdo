@@ -21,28 +21,18 @@
   <a href="https://github.com/kanishka-fdo">
     <img src="https://img.shields.io/badge/GitHub-7F52FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-7F52FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 👨‍💻 About Me
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kanishka-fdo&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-fdo&theme=tokyonight"/>
-</p>
+I am **Kanishka Fernando**, a passionate developer focused on backend engineering and modern Android development.
 
----
-
-# 📈 Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishka-fdo&theme=tokyo-night"/>
-</p>
+- ⚡ Backend Development using Spring Boot and REST APIs  
+- 📱 Android Development with Kotlin and Jetpack Compose  
+- 🏗️ Exploring clean architecture and scalable systems  
+- 🎯 Seeking Internship and Junior Software Engineer roles  
 
 ---
 
@@ -54,46 +44,37 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanishka-fdo&theme=tokyonight&row=2&column=4"/>
-</p>
-
----
-
 # 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/kanishka-fdo/Staff-Management-System">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Staff-Management-System&theme=tokyonight"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Staff-Management-System&theme=dark"/>
   </a>
+</p>
 
+<p align="center">
   <a href="https://github.com/kanishka-fdo/Expense-Tracker-App">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Expense-Tracker-App&theme=tokyonight"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Expense-Tracker-App&theme=dark"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/kanishka-fdo/Portfolio-Web-App">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Portfolio-Web-App&theme=tokyonight"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Portfolio-Web-App&theme=dark"/>
   </a>
 </p>
 
 ---
 
-# 🧰 Tools
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,photoshop" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kanishka-fdo&show_icons=true&theme=dark"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-fdo&theme=dark"/>
 </p>
 
----
-
-# 📅 My Contributions
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanishka-fdo&show_icons=true&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-fdo&layout=compact&theme=dark"/>
 </p>
 
 ---
