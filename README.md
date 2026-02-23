@@ -1,77 +1,104 @@
-# Kanishka Fernando
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;weight=700&amp;size=42&amp;pause=1400&amp;color=7F52FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=120&amp;lines=Kanishka+Fernando;Full+Stack+%26+Mobile+App+Developer;Java+%7C+Spring+Boot+%7C+Kotlin+%7C+Compose"
+    alt="Typing SVG"
+  />
+</p>
 
-### Full Stack and Mobile Application Developer  
-Information Systems Engineering Undergraduate  
+<h3 align="center">
+🎓 Information Systems Engineering Undergraduate  
+</h3>
 
-Building scalable backend systems and modern mobile applications.
+<p align="center">
+  🚀 Building scalable backend systems and modern mobile apps  
+</p>
 
----
-
-## 👨‍💻 About Me
-
-```yaml
-Name: Kanishka Fernando
-Role: Full Stack and Mobile Developer
-Backend: Spring Boot | REST APIs | JPA | Hibernate
-Mobile: Kotlin | Jetpack Compose | Room
-Open To: Internship and Junior Software Engineer Roles
-```
-
-I design structured backend systems and build modern Android applications with scalability, maintainability, and performance in mind.
-
----
-
-## 💼 Resume
-
-[Download Resume](https://github.com/kanishka-fdo/kanishka-fdo/blob/main/Kanishka-Fernando-Resume.pdf)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kanishka-fdo&amp;label=Profile%20Views&amp;color=7F52FF&amp;style=flat" />
+  <img src="https://img.shields.io/github/followers/kanishka-fdo?label=Followers&amp;style=flat&amp;color=7F52FF" />
+  <img src="https://img.shields.io/github/stars/kanishka-fdo?label=Stars&amp;style=flat&amp;color=7F52FF" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## ✨ About Me
 
-![Java](https://skillicons.dev/icons?i=java)
-![Kotlin](https://skillicons.dev/icons?i=kotlin)
-![Spring](https://skillicons.dev/icons?i=spring)
-![Android](https://skillicons.dev/icons?i=android)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Maven](https://skillicons.dev/icons?i=maven)
+👋 Hi, I'm **Kanishka Fernando**, a passionate developer focused on:
+
+- ⚡ Backend Development with **Spring Boot and REST APIs**
+- 📱 Android Apps using **Kotlin and Jetpack Compose**
+- 🏗️ Learning **Enterprise Architecture and Deployment**
+- 🎯 Looking for **Internship and Junior Software Engineer Opportunities**
+- 🤝 Open to collaborations on impactful projects  
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,js" />
+</p>
+
+### Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql" />
+</p>
+
+### Mobile Development  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=android,kotlin" />
+</p>
+
+### Tools and Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,maven,vscode" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### Staff Management System
-https://github.com/kanishka-fdo/Staff-Management-System
+### 🏢 Staff Management System  
+Spring Boot MVC • Authentication • Role-Based Access  
 
-### Expense Tracker App
-https://github.com/kanishka-fdo/Expense-Tracker-App
+### 🌐 Portfolio Web Application  
+Admin Dashboard • CMS Features • Spring Boot  
 
-### Portfolio Web Application
-https://github.com/kanishka-fdo/Portfolio-Web-App
+### 📱 Expense Tracker Android App  
+Kotlin • Jetpack Compose • Room Database  
 
 ---
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanishka-fdo)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanishka-fdo&amp;theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanishka-fdo)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanishka-fdo&amp;show_icons=true&amp;theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-fdo&amp;theme=tokyonight" height="160"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-fdo&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-fdo&amp;layout=compact&amp;theme=tokyonight" height="150"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- Email: kanishkaf18@gmail.com  
-- GitHub: https://github.com/kanishka-fdo  
+<p align="center">
+  <a href="mailto:kanishkaf18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7F52FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+  </a>
 
----
+  <a href="https://github.com/kanishka-fdo">
+    <img src="https://img.shields.io/badge/GitHub-7F52FF?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+  </a>
+</p>
 
-Open to internship and junior software engineering opportunities.
+<p align="center">
+  💼 <b>Open to Internships and Junior Software Engineer Roles</b>
+</p>
