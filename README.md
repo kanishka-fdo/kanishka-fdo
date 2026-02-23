@@ -1,20 +1,14 @@
-<!-- ===================================================== -->
-<!-- 💎 ELITE CORPORATE PORTFOLIO – FINAL VERSION -->
-<!-- ===================================================== -->
+<!-- =============================== -->
+<!-- CLEAN WORKING VERSION -->
+<!-- =============================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Kanishka%20Fernando&fontSize=55&color=0:111827,100:1f2937&stroke=7F52FF&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%26%20Mobile%20Application%20Developer&descAlignY=65"/>
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&pause=1300&color=7F52FF&center=true&vCenter=true&width=850&height=100&lines=Spring+Boot+Backend+Engineer;Android+Developer+with+Kotlin;Jetpack+Compose+Enthusiast;Building+Scalable+Real-World+Software+🚀"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1f2937&height=200&section=header&text=Kanishka%20Fernando&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20%26%20Mobile%20Application%20Developer&descAlignY=65"/>
 </p>
 
 <p align="center">
   <b>Information Systems Engineering Undergraduate</b><br>
-  Passionate about scalable backend systems & modern mobile applications
+  Building scalable backend systems & modern mobile applications
 </p>
 
 <p align="center">
@@ -24,24 +18,13 @@
 
 ---
 
-# 💼 Resume
-
-<p align="center">
-  <a href="https://github.com/kanishka-fdo/kanishka-fdo/blob/main/Kanishka-Fernando-Resume.pdf">
-    <img src="https://img.shields.io/badge/Download%20Resume-7F52FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-</p>
-
----
-
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```yaml
 Name: Kanishka Fernando
 Role: Full Stack & Mobile Developer
 Backend: Spring Boot • REST APIs • JPA • Hibernate
 Mobile: Kotlin • Jetpack Compose • Room
-Focus: Clean Architecture & Scalable Systems
 Open To: Internship / Junior Software Engineer Roles
 ```
 
@@ -49,7 +32,17 @@ I design structured backend systems and build modern Android applications with s
 
 ---
 
-# 🛠 Tech Stack
+## 💼 Resume
+
+<p align="center">
+  <a href="https://github.com/kanishka-fdo/kanishka-fdo/blob/main/Kanishka-Fernando-Resume.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,spring,android,python,js,html,css,mysql,git,github,maven,vscode" />
@@ -57,68 +50,42 @@ I design structured backend systems and build modern Android applications with s
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/kanishka-fdo/Staff-Management-System">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Staff-Management-System&theme=tokyonight&hide_border=true"/>
-  </a>
-
-  <a href="https://github.com/kanishka-fdo/Expense-Tracker-App">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Expense-Tracker-App&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/kanishka-fdo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Staff-Management-System" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/kanishka-fdo/Portfolio-Web-App">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Portfolio-Web-App&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/kanishka-fdo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Expense-Tracker-App" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kanishka-fdo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Portfolio-Web-App" />
   </a>
 </p>
 
 ---
 
-# 📊 GitHub Analytics (Auto Dark / Light Mode)
+## 📊 GitHub Analytics
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=kanishka-fdo&show_icons=true&theme=tokyonight&hide_border=true"
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=kanishka-fdo&show_icons=true&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)" />
-    <img height="170"/>
-  </picture>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kanishka-fdo&show_icons=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-fdo" />
+</p>
 
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-fdo&theme=tokyonight&hide_border=true"
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-fdo&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)" />
-    <img height="170"/>
-  </picture>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-fdo&layout=compact" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/kanishka-fdo/kanishka-fdo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/kanishka-fdo/kanishka-fdo/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake" 
-      src="https://raw.githubusercontent.com/kanishka-fdo/kanishka-fdo/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-# 🌐 Professional Links
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -139,5 +106,5 @@ I design structured backend systems and build modern Android applications with s
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1f2937&height=80&section=footer"/>
 </p>
