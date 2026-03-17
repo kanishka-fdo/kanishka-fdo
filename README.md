@@ -1,18 +1,24 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=220&section=header&text=Kanishka%20Fernando&fontSize=45&fontColor=ff0000&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Android%20Developer&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=240&section=header&text=Kanishka%20Fernando&fontSize=46&fontColor=ff1a1a&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Android%20Developer&descAlignY=67"/>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kanishka+Fernando;Information+Systems+Engineering+Undergraduate;Spring+Boot+Backend+Developer;Android+Developer+with+Kotlin+%26+Jetpack+Compose;Building+scalable+systems+with+clean+architecture" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kanishka-fdo&label=Profile%20Views&color=ff0000&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/kanishka-fdo?label=Followers&style=for-the-badge&color=ff0000" />
-  <img src="https://img.shields.io/github/stars/kanishka-fdo?label=Total%20Stars&style=for-the-badge&color=ff0000" />
+  <img src="https://img.shields.io/github/followers/kanishka-fdo?label=Followers&style=for-the-badge&color=ff0000&labelColor=000000" />
+  <img src="https://img.shields.io/github/stars/kanishka-fdo?label=Total%20Stars&style=for-the-badge&color=ff0000&labelColor=000000" />
 </p>
 
 <p align="center">
   <b>Information Systems Engineering Undergraduate</b><br>
-  <i>Building scalable backend systems & modern mobile apps</i>
+  Building scalable backend systems and modern mobile applications
 </p>
 
 ---
@@ -21,16 +27,16 @@
 
 <p align="center">
   <a href="mailto:kanishkaf18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red"/>
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff0000" />
   </a>
   <a href="https://github.com/kanishka-fdo">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=red"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff0000" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=red"/>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff0000" />
   </a>
   <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=red"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=ff0000" />
   </a>
 </p>
 
@@ -38,5 +44,167 @@
 
 # 👨‍💻 About Me
 
-```diff
-+ Kanishka Fernando
+Hi, I'm **Kanishka Fernando** — a passionate developer focused on backend engineering and modern Android development.
+
+- ⚡ Building robust backend systems using **Spring Boot** and **REST APIs**
+- 📱 Developing Android apps with **Kotlin** and **Jetpack Compose**
+- 🏗️ Exploring **clean architecture**, **system design**, and scalable solutions
+- 🎯 Seeking **Internship** and **Junior Software Engineer** opportunities
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,android,python,js,html,css,mysql,git,github,maven,vscode&theme=dark" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏢 Staff Management System
+<p align="center">
+  <a href="https://github.com/kanishka-fdo/Staff-Management-System">
+    <img width="800" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Staff-Management-System&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=8B0000"/>
+  </a>
+</p>
+
+<p align="center">
+  <img width="800" src="https://via.placeholder.com/1200x500/000000/FF0000?text=Staff+Management+System+Screenshot" />
+</p>
+
+- Built using **Spring Boot** and **MySQL**
+- Implements **CRUD operations** and **RESTful APIs**
+- Structured with a clean, scalable backend architecture
+
+---
+
+## 💰 Expense Tracker App
+<p align="center">
+  <a href="https://github.com/kanishka-fdo/Expense-Tracker-App">
+    <img width="800" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Expense-Tracker-App&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=8B0000"/>
+  </a>
+</p>
+
+<p align="center">
+  <img width="800" src="https://via.placeholder.com/1200x500/000000/FF0000?text=Expense+Tracker+App+Screenshot" />
+</p>
+
+- Android application built with **Kotlin** and **Jetpack Compose**
+- Focused on a clean UI and modern Android development practices
+- Designed around maintainable app structure and usability
+
+---
+
+## 🌐 Portfolio Web App
+<p align="center">
+  <a href="https://github.com/kanishka-fdo/Portfolio-Web-App">
+    <img width="800" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Portfolio-Web-App&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=8B0000"/>
+  </a>
+</p>
+
+<p align="center">
+  <img width="800" src="https://via.placeholder.com/1200x500/000000/FF0000?text=Portfolio+Web+App+Screenshot" />
+</p>
+
+- Personal portfolio built with **HTML**, **CSS**, and **JavaScript**
+- Showcases projects, skills, and developer profile
+- Designed to be responsive and visually clean
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kanishka-fdo&show_icons=true&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=8B0000"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-fdo&theme=dark&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&dates=ffffff&border=8B0000"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-fdo&layout=compact&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=8B0000"/>
+</p>
+
+---
+
+# 📈 Live Activity & Contribution Widgets
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanishka-fdo&bg_color=000000&color=ffffff&line=ff0000&point=ff4d4d&area=true&hide_border=false&border_color=8B0000" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanishka-fdo&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanishka-fdo&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kanishka-fdo&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanishka-fdo&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kanishka-fdo&theme=github_dark&utcOffset=5.5" />
+</p>
+
+---
+
+# 🐍 Snake Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kanishka-fdo/kanishka-fdo/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+# 🔥 Current Focus
+
+- Advanced **Spring Boot** backend development
+- **Android UI/UX** with Jetpack Compose
+- Learning **Docker**, **cloud deployment**, and scalable architecture
+- Improving real-world project quality for internship opportunities
+
+---
+
+# 🎨 Portfolio + GitHub Matching Theme
+
+Use this style for your portfolio too, so both match visually:
+
+## Theme Direction
+- **Background:** `#000000`
+- **Primary Red:** `#ff0000`
+- **Dark Red Accent:** `#8B0000`
+- **Text Primary:** `#ffffff`
+- **Text Secondary:** `#b3b3b3`
+- **Card Background:** `#0d0d0d`
+- **Border / Glow:** `#330000`
+
+## Suggested Portfolio Style
+- Black hero section with red glowing buttons
+- Red hover borders on cards
+- White text with muted gray descriptions
+- Rounded cards, subtle shadows, minimal layout
+- Use the same red-black look for:
+  - Navbar
+  - Buttons
+  - Project cards
+  - Contact section
+  - Footer
+
+## Portfolio Font Pairing
+- **Headings:** Poppins / Orbitron / Rajdhani
+- **Body:** Inter / Roboto / Fira Sans
+
+---
+
+# ⚙️ Important Setup
+
+## 1) Add your real links
+Replace:
+- `YOUR-LINKEDIN-USERNAME`
+- `https://your-portfolio-link.com`
+
+## 2) Add real screenshots
+Replace placeholder images with your actual screenshots:
+```html
+<img width="800" src="https://raw.githubusercontent.com/kanishka-fdo/REPOSITORY-NAME/main/assets/project-screenshot.png" />
