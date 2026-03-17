@@ -65,8 +65,8 @@ Hi, I'm **Kanishka Fernando** — a passionate developer focused on backend engi
 
 ## 🏢 Staff Management System
 <p align="center">
-  <a href="https://github.com/kanishka-fdo/Staff-Management-System">
-    <img width="800" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Staff-Management-System&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=8B0000"/>
+  <a href="https://github.com/kanishka-fdo/staff-management-system">
+    <img width="800" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=staff-management-system&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=8B0000"/>
   </a>
 </p>
 
@@ -82,8 +82,8 @@ Hi, I'm **Kanishka Fernando** — a passionate developer focused on backend engi
 
 ## 💰 Expense Tracker App
 <p align="center">
-  <a href="https://github.com/kanishka-fdo/Expense-Tracker-App">
-    <img width="800" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Expense-Tracker-App&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=8B0000"/>
+  <a href="https://github.com/kanishka-fdo/expense-tracker-android-app">
+    <img width="800" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=expense-tracker-android-app&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=8B0000"/>
   </a>
 </p>
 
@@ -99,8 +99,8 @@ Hi, I'm **Kanishka Fernando** — a passionate developer focused on backend engi
 
 ## 🌐 Portfolio Web App
 <p align="center">
-  <a href="https://github.com/kanishka-fdo/Portfolio-Web-App">
-    <img width="800" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=Portfolio-Web-App&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=8B0000"/>
+  <a href="https://github.com/kanishka-fdo/portfolio-webapp">
+    <img width="800" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=portfolio-webapp&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=8B0000"/>
   </a>
 </p>
 
