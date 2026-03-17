@@ -149,15 +149,3 @@ A personal portfolio website designed to present projects, skills, and developer
 - Growing through real-world development projects
 
 ---
-
-## ⚙️ Notes
-
-Replace these before publishing:
-
-- `YOUR-LINKEDIN-USERNAME`
-- `https://your-portfolio-link.com`
-
-If you want to add real screenshots later, use:
-
-```html
-<img src="https://raw.githubusercontent.com/kanishka-fdo/REPOSITORY-NAME/main/assets/screenshot.png" />
