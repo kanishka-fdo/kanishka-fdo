@@ -147,5 +147,6 @@ A personal portfolio website designed to present projects, skills, and developer
 - Building polished Android apps with **Jetpack Compose**
 - Learning more about **deployment**, **Docker**, and scalable architecture
 - Growing through real-world development projects
+- ## 🔥 First Pull Request Completed
 
 ---
