@@ -1,10 +1,3 @@
-Yes 😄 I understand — you don't want a **dark cyber-style README**. You want something that immediately looks **colourful, modern, premium, and eye-catching** 🌈✨
-
-I recommend a **Rainbow Gradient + Glassmorphism-style developer profile** using:
-
-🩷 Pink → 🟣 Purple → 🔵 Blue → 🩵 Cyan → 🟢 Green → 🟠 Orange
-
-Here’s a much more **colourful and attractive full version**:
 
 <!-- ===================================================== -->
 
