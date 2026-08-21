@@ -1,179 +1,233 @@
-<!-- ================= HEADER ================= -->
+# GitHub Profile README — Kanishka Fernando
+
+````md
+<!-- ==================== HERO ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=240&section=header&text=Kanishka%20Fernando&fontSize=46&fontColor=ff1a1a&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Android%20Developer&descAlignY=67"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:8B0000&height=250&section=header&text=Kanishka%20Fernando&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineer%20in%20Progress%20%C2%B7%20Android%20Developer&descAlignY=58&descSize=18&animation=fadeIn"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kanishka+Fernando;Information+Systems+Engineering+Undergraduate;Spring+Boot+Backend+Developer;Android+Developer+with+Kotlin+%26+Jetpack+Compose;Building+scalable+systems+with+clean+architecture" alt="Typing SVG" />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&width=850&lines=Building+reliable+backend+systems.;Creating+modern+Android+experiences.;Learning%2C+shipping%2C+and+improving+every+day."
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanishka-fdo&label=Profile%20Views&color=ff0000&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/kanishka-fdo?label=Followers&style=for-the-badge&color=ff0000&labelColor=000000" />
-  <img src="https://img.shields.io/github/stars/kanishka-fdo?label=Total%20Stars&style=for-the-badge&color=ff0000&labelColor=000000" />
-</p>
-
-<p align="center">
-  <b>Information Systems Engineering Undergraduate</b><br>
-  Building scalable backend systems and modern mobile applications
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="mailto:kanishkaf18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff0000" />
-  </a>
-  
   <a href="https://github.com/kanishka-fdo">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff0000" />
+    <img src="https://img.shields.io/github/followers/kanishka-fdo?style=flat-square&label=Followers&color=8B0000&labelColor=111111" />
   </a>
-  
-  <!-- Replace YOUR-LINKEDIN-USERNAME with your actual LinkedIn username -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff0000" />
-  </a>
-  
-  <!-- Replace with your actual portfolio URL when available -->
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=ff0000" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=kanishka-fdo&style=flat-square&label=Profile+Views&color=8B0000" />
 </p>
 
+<br/>
+
+<!-- ==================== INTRO ==================== -->
+
+## About Me
+
+```text
+Information Systems Engineering Undergraduate
+Focused on Backend Development & Modern Android Applications
+````
+
+I'm **Kanishka Fernando**, an aspiring software engineer interested in building reliable backend systems and polished mobile applications.
+
+My current focus is on designing practical software using **Spring Boot**, **REST APIs**, **Kotlin**, and **Jetpack Compose**. I enjoy learning through hands-on projects and continuously improving my understanding of software architecture, clean code, and scalable application design.
+
+* 🔴 **Backend:** Spring Boot, Java, REST APIs
+* 📱 **Mobile:** Kotlin, Android, Jetpack Compose
+* 🏗️ **Engineering:** Clean Architecture, maintainable code, scalable systems
+* 🎯 **Career Goal:** Internship / Junior Software Engineer opportunities
+
 ---
 
-## 👨‍💻 About Me
+<!-- ==================== TECH ==================== -->
 
-Hi, I'm **Kanishka Fernando** — an aspiring software developer with a strong interest in backend engineering and modern Android development.
-
-- ⚡ Building backend applications with **Spring Boot** and **REST APIs**
-- 📱 Developing Android applications using **Kotlin** and **Jetpack Compose**
-- 🏗️ Exploring **clean architecture**, **scalable systems**, and maintainable code
-- 🚀 Continuously building real-world projects and improving my development skills
-- 🎯 Seeking **Internship** and **Junior Software Engineer** opportunities
-
----
-
-## 🛠️ Tech Stack
+## Technical Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,spring,android,python,js,html,css,mysql,git,github,maven,vscode&theme=dark" />
 </p>
 
+<p align="center">
+  <sub>
+    Java · Kotlin · Spring Boot · Android · Python · JavaScript · MySQL · Git
+  </sub>
+</p>
+
 ---
 
-## 🚀 Featured Projects
+<!-- ==================== PROJECTS ==================== -->
+
+## Selected Projects
 
 <p align="center">
   <a href="https://github.com/kanishka-fdo/staff-management-system">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=staff-management-system&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=222222"/>
+    <img
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=staff-management-system&bg_color=0D0D0D&title_color=E50914&text_color=FFFFFF&icon_color=E50914&border_color=2A2A2A"
+    />
   </a>
-  
+
   <a href="https://github.com/kanishka-fdo/expense-tracker-android-app">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=expense-tracker-android-app&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=222222"/>
+    <img
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=expense-tracker-android-app&bg_color=0D0D0D&title_color=E50914&text_color=FFFFFF&icon_color=E50914&border_color=2A2A2A"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/kanishka-fdo/portfolio-webapp">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=portfolio-webapp&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=222222"/>
+    <img
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=portfolio-webapp&bg_color=0D0D0D&title_color=E50914&text_color=FFFFFF&icon_color=E50914&border_color=2A2A2A"
+    />
   </a>
 </p>
 
 ### 🏢 Staff Management System
-A staff management solution focused on organized data handling, clean project structure, and practical backend development with Spring Boot.
 
-### 💰 Expense Tracker Android App
-A mobile application for tracking income and expenses with a simple user experience, built using modern Android tools and UI practices.
+A backend-focused application designed around organized data management and structured application development using **Spring Boot**.
+
+### 📱 Expense Tracker
+
+A modern Android application for managing income and expenses, built with **Kotlin** and modern Android development practices.
 
 ### 🌐 Portfolio Web App
-A personal portfolio website designed to present projects, skills, and developer identity in a clean and responsive format.
+
+A responsive personal portfolio designed to showcase projects, skills, and development experience.
+
+> **View more:** Explore my repositories for additional projects and ongoing work.
 
 ---
 
-## 📌 What I Focus On
+<!-- ==================== ACHIEVEMENT ==================== -->
 
-- 🔴 Backend development with **Spring Boot**
-- 🔴 REST API design and application architecture
-- 🔴 Android development with **Kotlin**
-- 🔴 Modern UI development with **Jetpack Compose**
-- 🔴 Writing clean, maintainable, and scalable code
-- 🔴 Building practical, real-world software projects
+## Recent Milestone
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-First%20Pull%20Request%20Completed-E50914?style=for-the-badge&labelColor=111111" />
+</p>
+
+🎉 Successfully completed my **first Pull Request** — an important step toward becoming a more active contributor in collaborative and open-source development.
+
+I’m continuing to learn through real-world projects, collaboration, and hands-on software engineering experience.
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ==================== ACTIVITY ==================== -->
+
+## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kanishka-fdo&show_icons=true&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=222222"/>
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-fdo&theme=dark&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&dates=ffffff&border=222222"/>
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=kanishka-fdo&show_icons=true&hide_title=true&rank_icon=github&bg_color=0D0D0D&text_color=FFFFFF&icon_color=E50914&border_color=2A2A2A"
+  />
+
+<img
+ height="165"
+ src="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-fdo&background=0D0D0D&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=FFFFFF&dates=AAAAAA&border=2A2A2A"
+/>
+
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-fdo&layout=compact&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=222222"/>
-</p>
-
----
-
-## 📈 Live Activity & Contribution Widgets
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanishka-fdo&bg_color=000000&color=ffffff&line=ff0000&point=ff4d4d&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanishka-fdo&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanishka-fdo&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kanishka-fdo&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanishka-fdo&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kanishka-fdo&theme=github_dark&utcOffset=5.5" />
+  <img
+    width="85%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kanishka-fdo&bg_color=0D0D0D&color=FFFFFF&line=E50914&point=FFFFFF&area=true&hide_border=true"
+  />
 </p>
 
 ---
 
-## 🐍 Snake Contribution Graph
+<!-- ==================== CONTRIBUTIONS ==================== -->
+
+## Contribution Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kanishka-fdo/kanishka-fdo/output/snake.svg" alt="Snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/kanishka-fdo/kanishka-fdo/output/snake.svg"
+    alt="Contribution Snake Animation"
+  />
 </p>
 
 ---
 
-## 🔥 Recent Achievement
+<!-- ==================== GOALS ==================== -->
 
-<p align="center">
-  🎉 <b>First Pull Request Completed!</b> 🎉
-</p>
+## Currently Working Toward
 
-Successfully completed my **first Pull Request** — an exciting milestone in my journey as a developer and open-source contributor. 🚀
-
-Looking forward to collaborating with more developers, contributing to meaningful projects, and continuously improving through real-world development experience.
+<table>
+  <tr>
+    <td>🔴</td>
+    <td><b>Backend Engineering</b></td>
+    <td>Deepening my knowledge of Spring Boot and scalable application design.</td>
+  </tr>
+  <tr>
+    <td>📱</td>
+    <td><b>Android Development</b></td>
+    <td>Building more polished applications with Kotlin and Jetpack Compose.</td>
+  </tr>
+  <tr>
+    <td>🐳</td>
+    <td><b>DevOps Fundamentals</b></td>
+    <td>Learning Docker, deployment workflows, and production-ready development practices.</td>
+  </tr>
+  <tr>
+    <td>🤝</td>
+    <td><b>Open Source</b></td>
+    <td>Contributing more and gaining experience working with collaborative development workflows.</td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 Current Goals
+<!-- ==================== CONNECT ==================== -->
 
-- 🌱 Strengthening backend skills with **Spring Boot**
-- 📱 Building polished Android applications with **Jetpack Compose**
-- 🐳 Learning more about **Docker**, deployment, and scalable architecture
-- 🚀 Growing through real-world development projects
-- 🤝 Contributing more to **open-source projects**
-
----
+## Let's Connect
 
 <p align="center">
-  <b>⭐ Thanks for visiting my profile!</b><br><br>
-  <i>Always learning. Always building. Always improving. 🚀</i>
+  <a href="mailto:kanishkaf18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=E50914" />
+  </a>
+
+  <a href="https://github.com/kanishka-fdo">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+
+  <!-- Replace with your actual LinkedIn URL -->
+
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=E50914" />
+  </a>
+
+  <!-- Replace with your actual portfolio URL -->
+
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=E50914" />
+  </a>
 </p>
+
+<br/>
+
+<p align="center">
+  <i>"Keep building. Keep learning. Keep improving."</i>
+</p>
+
+<p align="center">
+  <sub>Thanks for visiting my profile.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:050505&height=120&section=footer" width="100%"/>
+</p>
+```
+
+**Before using it:** replace the LinkedIn and portfolio placeholder links with the real URLs.
