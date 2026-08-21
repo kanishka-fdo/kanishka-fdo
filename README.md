@@ -1,90 +1,85 @@
+Yes! 🔥 **Black + Dark Green** will look much more premium, powerful, and professional — especially for a developer profile. I’d use a **dark emerald / matrix-inspired theme**, not bright neon green everywhere.
+
+### 🎨 Theme palette
+
+* **Black:** `#050505`
+* **Deep Black:** `#0D1117`
+* **Dark Green:** `#064E3B`
+* **Emerald:** `#10B981`
+* **Light Green Accent:** `#22C55E`
+* **Soft White:** `#E5E7EB`
+
+Here is the **full redesigned README**:
 
 <!-- ===================================================== -->
 
-<!--                 KANISHKA FERNANDO README              -->
+<!--              KANISHKA FERNANDO | PROFILE README       -->
 
 <!-- ===================================================== -->
 
 <!-- ==================== HERO ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Kanishka%20Fernando&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=FFFFFF&animation=fadeIn&color=0:FF0080,20:7928CA,40:007BFF,60:00C6FF,80:00D084,100:FFD500&desc=Backend%20Developer%20%E2%9C%A8%20Android%20Developer%20%E2%9C%A8%20Future%20Software%20Engineer&descAlign=50&descAlignY=60&descSize=18&descColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:052E16,75:064E3B,100:000000&height=280&section=header&text=Kanishka%20Fernando&fontSize=52&fontColor=22C55E&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Android%20Developer&descAlignY=60&descSize=17&descColor=E5E7EB"/>
 </p>
 
 <!-- ==================== TYPING ==================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3500&pause=900&color=FF0080&center=true&vCenter=true&multiline=false&width=1000&lines=Hey+there!+I'm+Kanishka+%F0%9F%91%8B;I+build+backend+systems+%E2%9A%99%EF%B8%8F;I+create+Android+experiences+%F0%9F%93%B1;Turning+ideas+into+software+%F0%9F%9A%80;Code.+Create.+Learn.+Repeat.+%E2%9C%A8" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Kanishka+Fernando+%F0%9F%91%8B;Building+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Creating+modern+Android+applications+%F0%9F%93%B1;Clean+Code+%E2%80%A2+Smart+Architecture+%E2%80%A2+Real+Impact;Always+Learning.+Always+Building.+Always+Improving." alt="Typing SVG" />
+  </a>
 </p>
 
-<!-- ==================== BADGES ==================== -->
+<!-- ==================== PROFILE BADGES ==================== -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanishka-fdo&label=PROFILE%20VIEWS&color=FF0080&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/kanishka-fdo?label=FOLLOWERS&style=for-the-badge&color=7928CA&labelColor=111111" />
-  <img src="https://img.shields.io/github/stars/kanishka-fdo?label=STARS&style=for-the-badge&color=007BFF&labelColor=111111" />
+  <img src="https://komarev.com/ghpvc/?username=kanishka-fdo&label=PROFILE%20VIEWS&color=064E3B&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/kanishka-fdo?label=FOLLOWERS&style=for-the-badge&color=22C55E&labelColor=000000" />
+  <img src="https://img.shields.io/github/stars/kanishka-fdo?label=TOTAL%20STARS&style=for-the-badge&color=10B981&labelColor=000000" />
 </p>
 
 <br>
 
-<!-- ==================== INTRO ==================== -->
-
-<h3 align="center">
-  🌈 Information Systems Engineering Undergraduate
-</h3>
-
 <p align="center">
-  💻 <b>Build.</b> &nbsp; 🎨 <b>Create.</b> &nbsp; 🚀 <b>Innovate.</b> &nbsp; 🌱 <b>Grow.</b>
+  <b>🌿 Information Systems Engineering Undergraduate</b><br>
+  Building modern software with clean architecture and real-world impact.
 </p>
 
-<p align="center">
-  Passionate about building modern applications, solving problems, and transforming ideas into meaningful digital experiences.
-</p>
-
-<br>
+---
 
 <!-- ==================== ABOUT ==================== -->
 
-## 🧑‍🚀 About Me
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%">
 
-### 👋 Hello, World!
+### Hello, World! 👋
 
-I'm **Kanishka Fernando**, an aspiring software engineer passionate about creating software that is useful, scalable, and enjoyable to use.
+I'm **Kanishka Fernando**, an aspiring software engineer passionate about building reliable, scalable, and meaningful software.
 
-🎓 **Information Systems Engineering Undergraduate**
-
-⚙️ Building backend applications with **Java & Spring Boot**
-
-📱 Developing modern mobile apps with **Kotlin & Jetpack Compose**
-
-🏗️ Exploring **Clean Architecture & scalable system design**
-
-🌱 Learning through real-world projects and collaboration
-
-🎯 Working toward a **Software Engineering Internship**
+* ⚙️ Building backend applications with **Java & Spring Boot**
+* 📱 Creating Android applications with **Kotlin & Jetpack Compose**
+* 🏗️ Exploring **Clean Architecture** and scalable system design
+* 🌱 Growing through real-world projects and open-source collaboration
+* 🎯 Working toward **Software Engineering Internship** opportunities
 
 </td>
 
-<td width="45%" align="center">
-
-### 🎨 My Developer Formula
+<td width="40%" align="center">
 
 ```text
-💡 IDEA
-   ↓
-🧠 PLAN
-   ↓
-💻 CODE
-   ↓
-🐛 DEBUG
-   ↓
-🚀 BUILD
-   ↓
-✨ IMPROVE
+┌─────────────────────────────┐
+│       DEVELOPER MODE        │
+├─────────────────────────────┤
+│  ⚙️  BACKEND                │
+│  📱  ANDROID                │
+│  🏗️  ARCHITECTURE           │
+│  🌱  LEARNING               │
+│  🚀  BUILDING               │
+└─────────────────────────────┘
 ```
 
 </td>
@@ -95,252 +90,174 @@ I'm **Kanishka Fernando**, an aspiring software engineer passionate about creati
 
 <!-- ==================== CONNECT ==================== -->
 
-## 🌐 Let's Connect & Create Something Awesome!
+## 🌐 Connect With Me
 
 <p align="center">
+  <a href="mailto:kanishkaf18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-064E3B?style=for-the-badge&logo=gmail&logoColor=22C55E" />
+  </a>
 
-<a href="mailto:kanishkaf18@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF0080?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="https://github.com/kanishka-fdo">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=22C55E" />
+  </a>
 
-<a href="https://github.com/kanishka-fdo">
-  <img src="https://img.shields.io/badge/GitHub-7928CA?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <!-- Replace with your LinkedIn username -->
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-007BFF?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-064E3B?style=for-the-badge&logo=linkedin&logoColor=22C55E" />
+  </a>
 
-</p>
+  <!-- Replace with your portfolio URL -->
 
-<p align="center">
-  ✉️ Feel free to connect, collaborate, or just say hello! 👋
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=22C55E" />
+  </a>
 </p>
 
 ---
 
 <!-- ==================== TECH STACK ==================== -->
 
-## 🛠️ My Tech Playground
+## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,kotlin,spring,android,python,js,html,css,mysql,git,github,maven,vscode&perline=13" />
-
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,android,python,js,html,css,mysql,git,github,maven,vscode&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-FF0080?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mobile-7928CA?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web-007BFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Database-00C6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tools-00D084?style=flat-square" />
+  <img src="https://img.shields.io/badge/BACKEND-064E3B?style=flat-square&logo=spring&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/MOBILE-052E16?style=flat-square&logo=android&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/WEB-064E3B?style=flat-square&logo=javascript&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/DATABASE-052E16?style=flat-square&logo=mysql&logoColor=22C55E" />
 </p>
 
 ---
 
-<!-- ==================== PROJECTS ==================== -->
+<!-- ==================== FEATURED PROJECTS ==================== -->
 
-## 🚀 Things I've Built
+## 🚀 Featured Projects
 
 <p align="center">
-  <i>Every project is another level unlocked. 🎮</i>
+  <i>Turning ideas into practical software solutions.</i>
 </p>
 
 <br>
 
-<table>
-<tr>
+<p align="center">
+  <a href="https://github.com/kanishka-fdo/staff-management-system">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=staff-management-system&theme=transparent&bg_color=000000&title_color=22C55E&text_color=E5E7EB&icon_color=10B981&border_color=064E3B" />
+  </a>
 
-<td width="33%" align="center">
-
-## 🏢
-
-### Staff Management System
-
-**☕ Java** • **🌱 Spring Boot**
-
-A backend-focused application designed for structured staff data management.
-
-<br>
-
-<a href="https://github.com/kanishka-fdo/staff-management-system">
-  <img src="https://img.shields.io/badge/Explore_Project-FF0080?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-## 💰
-
-### Expense Tracker
-
-**📱 Kotlin** • **🎨 Jetpack Compose**
-
-A modern Android application for managing income and expenses.
-
-<br>
-
-<a href="https://github.com/kanishka-fdo/expense-tracker-android-app">
-  <img src="https://img.shields.io/badge/Explore_Project-7928CA?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-## 🌐
-
-### Portfolio Web App
-
-**🟠 HTML** • **🔵 CSS** • **🟡 JavaScript**
-
-A responsive website designed to showcase my projects and development journey.
-
-<br>
-
-<a href="https://github.com/kanishka-fdo/portfolio-webapp">
-  <img src="https://img.shields.io/badge/Explore_Project-007BFF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
+  <a href="https://github.com/kanishka-fdo/expense-tracker-android-app">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=expense-tracker-android-app&theme=transparent&bg_color=000000&title_color=22C55E&text_color=E5E7EB&icon_color=10B981&border_color=064E3B" />
+  </a>
+</p>
 
 <p align="center">
-  🌟 <b>More exciting projects coming soon...</b> 🌟
+  <a href="https://github.com/kanishka-fdo/portfolio-webapp">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=portfolio-webapp&theme=transparent&bg_color=000000&title_color=22C55E&text_color=E5E7EB&icon_color=10B981&border_color=064E3B" />
+  </a>
 </p>
 
 ---
 
-<!-- ==================== ACHIEVEMENT ==================== -->
+<!-- ==================== DEVELOPER MILESTONE ==================== -->
 
-## 🏆 Achievement Unlocked!
+## 🏆 Developer Milestone
 
 <p align="center">
+  <img src="https://img.shields.io/badge/ACHIEVEMENT-FIRST%20PULL%20REQUEST%20COMPLETED-064E3B?style=for-the-badge&logo=github&logoColor=22C55E" />
+</p>
 
 ### 🎉 First Pull Request Completed!
 
-<img src="https://img.shields.io/badge/✓-FIRST%20PULL%20REQUEST%20COMPLETED-00D084?style=for-the-badge&labelColor=111111"/>
+Successfully completed my **first Pull Request** — an exciting milestone in my journey as a developer and open-source contributor.
 
-</p>
-
-> 🚀 **A new milestone unlocked!**
->
-> My first Pull Request has officially been completed — the beginning of my journey into collaboration and open-source development.
->
-> 💡 *One contribution down. Many more to come.*
+> 🌱 **One contribution completed. Many more projects and collaborations ahead.**
 
 ---
 
 <!-- ==================== GITHUB STATS ==================== -->
 
-## 📊 My GitHub Universe
+## 📊 GitHub Statistics
 
 <p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=kanishka-fdo&show_icons=true&theme=transparent&bg_color=000000&title_color=22C55E&text_color=E5E7EB&icon_color=10B981&border_color=064E3B" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kanishka-fdo&show_icons=true&theme=radical&hide_border=true&title_color=FF0080&icon_color=7928CA&text_color=FFFFFF&bg_color=0D1117" />
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-fdo&theme=radical&hide_border=true" />
-
+  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-fdo&theme=dark&background=000000&ring=22C55E&fire=10B981&currStreakLabel=22C55E&sideLabels=E5E7EB&dates=9CA3AF&border=064E3B" />
 </p>
 
 <p align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-fdo&layout=compact&theme=radical&hide_border=true" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-fdo&layout=compact&theme=transparent&bg_color=000000&title_color=22C55E&text_color=E5E7EB&border_color=064E3B" />
 </p>
 
 ---
 
-<!-- ==================== ACTIVITY ==================== -->
+<!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
 
-## 🌊 Contribution Wave
+## 📈 Contribution Activity
 
 <p align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanishka-fdo&bg_color=0D1117&color=FFFFFF&line=FF0080&point=00C6FF&area=true&hide_border=true&area_color=7928CA" />
-
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanishka-fdo&bg_color=000000&color=E5E7EB&line=22C55E&point=10B981&area=true&hide_border=true" />
 </p>
 
 ---
 
-<!-- ==================== TROPHIES ==================== -->
+<!-- ==================== PROFILE SUMMARY ==================== -->
 
-## 🏆 Trophy Collection
+## 🌿 Development Overview
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanishka-fdo&theme=github_dark" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kanishka-fdo&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanishka-fdo&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kanishka-fdo&theme=github_dark" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanishka-fdo&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kanishka-fdo&theme=github_dark&utcOffset=5.5" />
 </p>
 
 ---
 
 <!-- ==================== SNAKE ==================== -->
 
-## 🐍 Watch My Contributions Come Alive
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kanishka-fdo/kanishka-fdo/output/snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/kanishka-fdo/kanishka-fdo/output/snake.svg" alt="Snake contribution animation" />
 </p>
 
 ---
 
-<!-- ==================== GOALS ==================== -->
+<!-- ==================== CURRENT GOALS ==================== -->
 
-## 🎯 Currently Leveling Up
+## 🎯 Currently Building & Learning
 
-<table>
-<tr>
-<td>
+<p align="center">
 
-### ⚙️ Backend
+|      🌱 Focus      |     🚀 Next Step    |             🎯 Goal             |
+| :----------------: | :-----------------: | :-----------------------------: |
+|     Spring Boot    | Docker & Deployment | Software Engineering Internship |
+|  Kotlin & Compose  |    System Design    |    Open Source Contributions    |
+| Clean Architecture |   Scalable Systems  |      Real-World Experience      |
 
-🔴 Spring Boot
-🟠 REST APIs
-🟡 System Design
-
-</td>
-
-<td>
-
-### 📱 Mobile
-
-🟣 Kotlin
-🔵 Jetpack Compose
-🟢 Modern Android
-
-</td>
-
-<td>
-
-### 🚀 Growth
-
-🌈 Open Source
-💼 Internship
-✨ Real-World Projects
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
 <!-- ==================== FOOTER ==================== -->
 
 <p align="center">
+  <b>🌿 CODE • BUILD • GROW 🌿</b>
+  <br><br>
+  <i>Building better software, one commit at a time.</i>
+  <br><br>
 
-### ✨ Building the future, one line of code at a time. ✨
-
-🌈 **Dream Big**   •   💻 **Code Boldly**   •   🚀 **Keep Growing**
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF0080,20:7928CA,40:007BFF,60:00C6FF,80:00D084,100:FFD500" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:052E16,70:064E3B,100:000000&height=140&section=footer" />
 </p>
+
+**This version is much more consistent:** black background + deep forest green + emerald highlights. It should feel **modern, premium, clean, and powerful** without becoming too bright or messy.
