@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kanishka+Fernando;Information+Systems+Engineering+Undergraduate;Spring+Boot+Backend+Developer;Android+Developer+with+Kotlin+%26+Jetpack+Compose;Building+scalable+systems+with+clean+architecture" alt="Typing SVGV" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kanishka+Fernando;Information+Systems+Engineering+Undergraduate;Spring+Boot+Backend+Developer;Android+Developer+with+Kotlin+%26+Jetpack+Compose;Building+scalable+systems+with+clean+architecture" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,12 +29,17 @@
   <a href="mailto:kanishkaf18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff0000" />
   </a>
+  
   <a href="https://github.com/kanishka-fdo">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff0000" />
   </a>
+  
+  <!-- Replace YOUR-LINKEDIN-USERNAME with your actual LinkedIn username -->
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff0000" />
   </a>
+  
+  <!-- Replace with your actual portfolio URL when available -->
   <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=ff0000" />
   </a>
@@ -47,13 +52,14 @@
 Hi, I'm **Kanishka Fernando** — an aspiring software developer with a strong interest in backend engineering and modern Android development.
 
 - ⚡ Building backend applications with **Spring Boot** and **REST APIs**
-- 📱 Developing Android apps using **Kotlin** and **Jetpack Compose**
+- 📱 Developing Android applications using **Kotlin** and **Jetpack Compose**
 - 🏗️ Exploring **clean architecture**, **scalable systems**, and maintainable code
+- 🚀 Continuously building real-world projects and improving my development skills
 - 🎯 Seeking **Internship** and **Junior Software Engineer** opportunities
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,spring,android,python,js,html,css,mysql,git,github,maven,vscode&theme=dark" />
@@ -67,6 +73,7 @@ Hi, I'm **Kanishka Fernando** — an aspiring software developer with a strong i
   <a href="https://github.com/kanishka-fdo/staff-management-system">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=staff-management-system&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=222222"/>
   </a>
+  
   <a href="https://github.com/kanishka-fdo/expense-tracker-android-app">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka-fdo&repo=expense-tracker-android-app&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=222222"/>
   </a>
@@ -91,10 +98,12 @@ A personal portfolio website designed to present projects, skills, and developer
 
 ## 📌 What I Focus On
 
-- Backend development with **Spring Boot**
-- API design and application structure
-- Android development with **Kotlin**
-- Writing clean, maintainable, and scalable code
+- 🔴 Backend development with **Spring Boot**
+- 🔴 REST API design and application architecture
+- 🔴 Android development with **Kotlin**
+- 🔴 Modern UI development with **Jetpack Compose**
+- 🔴 Writing clean, maintainable, and scalable code
+- 🔴 Building practical, real-world software projects
 
 ---
 
@@ -102,6 +111,7 @@ A personal portfolio website designed to present projects, skills, and developer
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kanishka-fdo&show_icons=true&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=222222"/>
+  
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-fdo&theme=dark&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&dates=ffffff&border=222222"/>
 </p>
 
@@ -141,12 +151,29 @@ A personal portfolio website designed to present projects, skills, and developer
 
 ---
 
-## 🎯 Current Goals
+## 🔥 Recent Achievement
 
-- Strengthening backend skills with **Spring Boot**
-- Building polished Android apps with **Jetpack Compose**
-- Learning more about **deployment**, **Docker**, and scalable architecture
-- Growing through real-world development projects
-- ## 🔥 First Pull Request Completed
+<p align="center">
+  🎉 <b>First Pull Request Completed!</b> 🎉
+</p>
+
+Successfully completed my **first Pull Request** — an exciting milestone in my journey as a developer and open-source contributor. 🚀
+
+Looking forward to collaborating with more developers, contributing to meaningful projects, and continuously improving through real-world development experience.
 
 ---
+
+## 🎯 Current Goals
+
+- 🌱 Strengthening backend skills with **Spring Boot**
+- 📱 Building polished Android applications with **Jetpack Compose**
+- 🐳 Learning more about **Docker**, deployment, and scalable architecture
+- 🚀 Growing through real-world development projects
+- 🤝 Contributing more to **open-source projects**
+
+---
+
+<p align="center">
+  <b>⭐ Thanks for visiting my profile!</b><br><br>
+  <i>Always learning. Always building. Always improving. 🚀</i>
+</p>
