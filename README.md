@@ -1,15 +1,3 @@
-Yes! 🔥 **Black + Dark Green** will look much more premium, powerful, and professional — especially for a developer profile. I’d use a **dark emerald / matrix-inspired theme**, not bright neon green everywhere.
-
-### 🎨 Theme palette
-
-* **Black:** `#050505`
-* **Deep Black:** `#0D1117`
-* **Dark Green:** `#064E3B`
-* **Emerald:** `#10B981`
-* **Light Green Accent:** `#22C55E`
-* **Soft White:** `#E5E7EB`
-
-Here is the **full redesigned README**:
 
 <!-- ===================================================== -->
 
